@@ -1,6 +1,6 @@
 //const scrape = require('website-scraper');
 import scrape from 'website-scraper';
-const websiteUrl = 'https://testobooster.in/'; 
+const websiteUrl = 'https://yourwebsitedomainname.com/'; 
  
 scrape({ 
     urls: [websiteUrl], 
